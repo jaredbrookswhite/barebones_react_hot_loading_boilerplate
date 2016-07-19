@@ -6,3 +6,4 @@ tests.webpack.js
 dist_env*
 markups*
 src/main.js
+README.md
