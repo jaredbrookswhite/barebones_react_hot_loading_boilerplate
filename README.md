@@ -13,8 +13,8 @@ Your changes will appear without reloading the browser like in [this video](http
 ### Help
 A couple tutorials can help you get an idea of what's going on.
 
-  * [https://github.com/petehunt/react-howto](React Basics) - Quick rundown of the framework.
+  * [React Basics](https://github.com/petehunt/react-howto) - Quick rundown of the framework.
 
-  * [https://egghead.io/courses/building-react-applications-with-idiomatic-redux](Redux) - Redux, a great way to manage application state.
+  * [Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) - Redux, a great way to manage application state.
 
-  * [https://github.com/reactjs/redux/tree/master/examples/real-world](Redux App Pattern) - The redux application pattern, a great way to set up app structure.
+  * [Redux App Pattern](https://github.com/reactjs/redux/tree/master/examples/real-world) - The redux application pattern, a great way to set up app structure.
