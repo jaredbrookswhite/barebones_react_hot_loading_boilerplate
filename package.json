@@ -28,7 +28,7 @@
     "babel-preset-react": "^6.11.1",
     "babel-preset-stage-0": "^6.5.0",
     "eslint": "^3.1.1",
-    "eslint-plugin-react": "^5.2.2",
+    "eslint-plugin-react": "^6.0.0",
     "react-hot-loader": "^3.0.0-beta.1",
     "typecheck": "^0.1.2",
     "webpack": "^1.13.1",
