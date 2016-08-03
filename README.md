@@ -1,3 +1,4 @@
+If for some reason you found this and like it, give [gearon](https://github.com/gaearon/react-transform-boilerplate) a star.
 
 ### Usage
 
