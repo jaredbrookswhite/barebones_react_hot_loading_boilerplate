@@ -37,7 +37,7 @@
     "leaflet": "^0.7.7",
     "typecheck": "^0.1.2",
     "webpack": "^1.13.1",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^2.3.0"
   },
   "dependencies": {
     "react": "^15.3.0",
